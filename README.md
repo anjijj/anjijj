@@ -15,10 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently studying at Gachon University.<br>
-🌱 I’m currently learning business administration and software.<br>
+🔭 I’m currently learning business administration and software.<br>
 🔭 Business administration is my major and software is my second major.<p>
 😄 I want to find my dream here.<br>
 😄 My dream is to have a job that combines major and second major.<p>
-💬 I'm going to do two things for my dream.<br>
-💬 The first is software-related study.<br>
-💬 Second, try to be a trend-conscious person.<br>
+✨ I'm going to do two things for my dream.<br>
+✨ The first is software-related study.<br>
+✨ Second, try to be a trend-conscious person.<br>
+👋
