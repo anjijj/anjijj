@@ -22,4 +22,3 @@ Here are some ideas to get you started:
 ✨ I'm going to do two things for my dream.<br>
 ✨ The first is software-related study.<br>
 ✨ Second, try to be a trend-conscious person.<br>
-👋
