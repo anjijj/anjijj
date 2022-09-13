@@ -14,4 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My major is business administration.
+🔭 I’m currently studying at Gachon University.<br>
+🌱 I’m currently learning business administration and software.
+🔭 Business administration is my major and software is my second major.
+😄 I want to find my dream here.
+😄 My dream is to have a job that combines major and second major.
